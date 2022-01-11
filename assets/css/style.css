@@ -1105,5 +1105,5 @@ footer .inner-content p a {
 
 
 .logo{
-	height: 50px;
+	height: 50px !important;
 }
